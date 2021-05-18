@@ -14,6 +14,11 @@ Simple tool that takes a long URL and makes it substantially shorter, ensuring t
 
 To learn more about Full-Stack web development, via the MERN stack. Furthermore, explore different tools that help document APIs, like OpenAPI/SwaggerUI.
 
+## Features
+
+- **URL Conversion**: convert a long URL into a short URL.
+- **Interactive API**: view/try API endpoints listed on the documentation.
+
 ## Built With
 
 This project was built using the MERN stack, which includes:
