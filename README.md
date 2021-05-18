@@ -16,16 +16,16 @@ To learn more about Full-Stack web development, via the MERN stack. Furthermore,
 
 ## Built With
 
-This project was built using the PERN stack, which includes:
+This project was built using the MERN stack, which includes:
 
 - [MongoDB](https://www.mongodb.com/)
 - [Express.js](https://expressjs.com/)
 - [React](https://reactjs.org/)
 - [Nodejs](https://nodejs.org/en/)
-- [SwaggerUI](https://swagger.io/tools/swagger-ui/)
 
 **React** was used for Front-End Development, along with [Bootstrap](https://getbootstrap.com).\
 **Express.js** and **PostgreSQL** were used to implement the RESTful API.\
+[SwaggerUI](https://swagger.io/tools/swagger-ui/) was used for API documentation.
 
 ## Installation
 
