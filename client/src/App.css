@@ -1,0 +1,17 @@
+.content-div {
+  background-color: #fafafa;
+  display: flex;
+  margin: 0 auto;
+  flex-direction: column;
+  align-items: center;
+  min-height: 100vh;
+  width: 75vw;
+  box-shadow: rgba(0, 0, 0, 0.24) 0px 3px 8px;
+  bottom: 0;
+}
+
+@media only screen and (max-width: 650px) {
+  .content-div {
+    width: 100%;
+  }
+}

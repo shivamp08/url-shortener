@@ -1,0 +1,40 @@
+input[type="url"],
+textarea {
+  outline: none;
+  box-shadow: none !important;
+  border: 1px solid black !important;
+}
+
+.btn-dark:focus,
+.btn-dark:active,
+.btn-success:focus,
+.btn-success:active {
+  box-shadow: none !important;
+  outline: 0px !important;
+}
+
+.customBtnSize {
+  width: 100px !important;
+}
+
+@media only screen and (max-width: 650px) {
+  .input-group {
+    min-width: 90% !important;
+  }
+}
+
+.red-placeholder::placeholder {
+  /* Chrome, Firefox, Opera, Safari 10.1+ */
+  color: red;
+  opacity: 1; /* Firefox */
+}
+
+.red-placeholder:-ms-input-placeholder {
+  /* Internet Explorer 10-11 */
+  color: red;
+}
+
+.red-placeholder::-ms-input-placeholder {
+  /* Microsoft Edge */
+  color: red;
+}
